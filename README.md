@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pijushgupta
-- 👀 I’m interested in web programming! I'm a php developer with 7+ years of experice on php. 
+- 👀 I’m interested in web programming! I'm a php and vueJS developer. 
 - 📫 reach me on pijush@live.com
 
 <!---
