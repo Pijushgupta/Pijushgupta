@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pijushgupta
-- 👀 I'm a php and vueJS developer. 
+- 👀 I'm a Php and vueJS developer. 
 - 📫 reach me @ pijush@live.com
 
 <!---
